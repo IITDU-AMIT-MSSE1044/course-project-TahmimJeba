@@ -23,7 +23,7 @@ public class LogParser {
 		mainBR.close();
 		
 		// write
-		FileOutputStream outputStream = new FileOutputStream("dataFCA.txt");
+		FileOutputStream outputStream = new FileOutputStream("dataFCA.log");
         OutputStreamWriter outputStreamWriter = new OutputStreamWriter(outputStream, "UTF-8");
         BufferedWriter bufferedWriter = new BufferedWriter(outputStreamWriter);
         
