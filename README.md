@@ -14,7 +14,8 @@ I could not manage to find the dataset used in the base paper. I have generated 
 
 - Clone and build the project
 - First run the LogGenerator.java from the package LogAnalysis.logGenerator to generate log and then run LogParser.java from the same package to make the dataset ready.
-- 
+
+- Run RunDecisionTree.java to get final output. 
 
 
 ## Base Paper
